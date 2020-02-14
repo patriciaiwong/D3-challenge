@@ -17,16 +17,16 @@ Directory:
 
   assets (folder)
 
-    css (Folder)
+   css (Folder)
 
-      - style.css
+   - style.css
 
-      - d3style.css
+   - d3style.css
 
-    data (Folder)
+   data (Folder)
 
-      - data.csv
+   - data.csv
 
-    js (Folder)
+   js (Folder)
 
-      - app.js (Used for final Dashboard)
+   - app.js

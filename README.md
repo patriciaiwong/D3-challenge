@@ -11,22 +11,22 @@ Task:
 
 Directory:
 
-  * index.html
+ * index.html
 
-  * README.md
+ * README.md
 
  * assets (folder)
 
-   * css (Folder)
+    * css (Folder)
 
-    * style.css
+     * style.css
 
-    * d3style.css
+     * d3style.css
 
    * data (Folder)
 
-    * data.csv
+     * data.csv
 
    * js (Folder)
 
-    * app.js
+    \* app.js

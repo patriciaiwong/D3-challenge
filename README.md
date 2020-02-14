@@ -19,14 +19,14 @@ Directory:
 
    * css (Folder)
 
-   - style.css
+    - style.css
 
-   - d3style.css
+    - d3style.css
 
    * data (Folder)
 
-   - data.csv
+    - data.csv
 
    * js (Folder)
 
-   - app.js
+    - app.js

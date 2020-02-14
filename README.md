@@ -19,9 +19,9 @@ Directory:
 
     * css (Folder)
 
-     * style.css
+      * style.css
 
-     * d3style.css
+      * d3style.css
 
    * data (Folder)
 
@@ -29,4 +29,4 @@ Directory:
 
    * js (Folder)
 
-    \* app.js
+      * app.js

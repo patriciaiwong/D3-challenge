@@ -10,6 +10,7 @@ Task:
 * Create and situate your axes and labels to the left and bottom of the chart.
 
 Directory:
+
   index.html
 
   README.md
